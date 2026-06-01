@@ -250,26 +250,36 @@ Guardian AI is designed with:
 ---
 
 ### 🏗️ Suggested Tech Stack
-Frontend|
+
+Frontend:
+
 React|
 Next.js|
 Tailwind CSS|
 Framer Motion|
 Lucide React|
-Backend
+
+Backend:
+
 Node.js / Express|
 FastAPI|
 REST APIs|
 JWT Authentication|
-Database
+
+Database:
+
 PostgreSQL|
 MongoDB|
-AI / ML
+
+AI / ML:
+
 OCR for handwritten prescriptions|
 Speech-to-text processing|
 Multimodal AI models|
 Recommendation engine|
-Deployment
+
+Deployment:
+
 Vercel|
 Netlify|
 Render|
@@ -377,7 +387,7 @@ It is a complete AI health guardian
 * Red highlights for caution and emergencies
 * Clean, modern typography
 ---
-###⚠️ Disclaimer
+### ⚠️ Disclaimer
 
 > Guardian AI is an assistive healthcare technology concept and should not replace licensed medical professionals. Final diagnosis and treatment decisions must always remain with qualified doctors.
 
